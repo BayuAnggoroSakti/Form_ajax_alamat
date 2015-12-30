@@ -1,0 +1,7 @@
+1. buat database dengan nama lokasi
+2. import lokasi.sql ke database lokasi
+3. untuk settingan default Apace upload maximal 2mb, 
+   sedangkan databasenya ukuran 3MB, jadi setting
+   di php.ini cari max_upload ubah menjadi di atas 3MB
+4. lokasi php.ini bisa di lihat di phpinfo() di localhost
+5. semoga dapat nilai yang bagus ^_^
